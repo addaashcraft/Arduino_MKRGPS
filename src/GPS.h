@@ -85,7 +85,7 @@ private:
   float _altitude;
   int _satellites;
 
-  struct timespec _ts;
+  struct timespec_ts;
 };
 
 extern GPSClass GPS;
